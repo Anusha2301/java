@@ -1,0 +1,7 @@
+Public class helloworld
+{
+ Public static void main(string[] args) 
+ {
+   System. Out. Println("\nHellow world");
+ }
+}
